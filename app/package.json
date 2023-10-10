@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_test",
+  "version": "1.0.0",
+  "description": "��N\u0000o\u0000d\u0000e\u0000 \u0000T\u0000e\u0000s\u0000t\u0000 \u0000r\u0000e\u0000a\u0000d\u0000 \u0000m\u0000e\u0000\r\u0000 \u0000",
+  "main": "global.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
+  }
+}
